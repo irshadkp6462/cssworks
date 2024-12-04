@@ -1,0 +1,35 @@
+
+.parent{
+
+    border: 2px black solid;
+    background-color: #845ec2;
+    height: 300px;
+    width: 75%;
+
+
+    display: flex;
+    justify-content: space-evenly;
+
+    
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+    align-items: center;
+
+}
+
+.child{
+
+    border: 2px black solid;
+    height: 150px;
+    width: 20%;
+    background-color: #296073;
+
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

@@ -1,0 +1,23 @@
+.box1{
+
+    background-color: green;
+    height: 200px;
+    width: 80%;
+}
+
+.box2{
+    background-color: purple;
+    height: 200px;
+    width: 60%;
+
+}
+
+.box3{
+    background-color: black;
+    height: 200px;
+    width: 30%;
+}
+
+.border{
+    border: 2px solid white;
+}

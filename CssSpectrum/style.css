@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+
+}
+
+body{
+
+    background-color: black;
+}
+
+.heading{
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+
+}
+
+.first{
+
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    
+    
+
+}
+
+.size{
+
+    
+    width: 10%;
+    height: 100px;
+    margin: 5px;
+
+}
+.c1{
+    background-color: #4b4453;
+}
+
+
+.c2{
+    background-color: #4d8076;
+}
+
+.c3{
+    background-color: #00c2a8;
+}
+
+.c4{
+    background-color: green;
+}
+
+.c5{
+    background-color: beige;
+}
+
+.c6{
+    background-color: orange;
+}
+
+
+.c7{
+    background-color: lightcoral;
+}
+
+.c8{
+    background-color: lightpink;
+}
+
+.c9{
+    background-color: rebeccapurple;
+}
+
+.c10{
+    background-color: purple;
+}
+
+.c11{
+    background-color: slateblue;
+}
+
+.c12{
+    background-color: dimgray;
+}
+
+.c13{
+    background-color: lightskyblue;
+}
+
+.c14{
+    background-color: lightgreen;
+}
+
+.c15{
+    background-color: lightsalmon;
+}
+
+
+.c16{
+    background-color: maroon;
+}
+
+.c17{
+    background-color: brown;
+}
+
+.c18{
+    background-color: cyan;
+}
+
+.c19{
+    background-color: #008f7a;
+}
+
+.c20{
+    background-color: #845ec2;
+}
+
+.c21{
+    background-color: darkviolet;
+}
+
